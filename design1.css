@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@500&display=swap');
+
+.hei{
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;1,500&display=swap');
+
+body {
+    background: url('https://images.livemint.com/rf/Image-621x414/LiveMint/Period2/2018/02/02/Photos/Processed/tax-ksb--621x414@LiveMint.jpg');
+    background-size: 1843px 1000px;
+}
+.btn {
+    border-radius: 1.25rem;
+}
+.card{
+    top: 95px;
+}

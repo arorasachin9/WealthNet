@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@500&display=swap');
+
+.hei{
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;1,500&display=swap');
+
+body {
+    background-color: whitesmoke;
+}
+
+.card {
+    border: none
+}
+
+.integration {
+    font-size: 16px;
+    font-weight: 500;
+    color: #0d968d
+}
+
+.improve {
+    font-size: 13px;
+    color: #99a0b0
+}
+
+.btn1 {
+    width: 90px;
+    height: 28px;
+    background-color: #c4c8d0;
+    color: #7c8493;
+    border: none;
+    border-radius: 8px;
+    transition: all 0.6s
+}
+
+.google {
+    font-size: 17px;
+    font-weight: 700
+}
+
+.btn1:hover {
+    background-color: #0d968d;
+    color: #b0dcda
+}
+
+.text {
+    font-family: 'Poppins', sans-serif;
+    font-size: 13px;
+    color: #0d968d
+}
+
+.btn2 {
+    background-color: #0d968d;
+    border: none;
+    height: 28px;
+    width: 120px;
+    color: #81c8c3;
+    border-radius: 8px
+}
+
+
+
+
+
+@media (min-width: 544px) {  
+    .para {font-size:1.2rem;} /*1rem = 16px*/
+  }
+   
+  /* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
+  @media (min-width: 768px) {  
+    .para {font-size:1.6rem;} /*1rem = 16px*/
+  }
+   
+  /* Large devices (desktops, 992px and up) */
+  @media (min-width: 992px) { 
+    .para {font-size:2.1rem;} /*1rem = 16px*/
+  }
+   
+  /* Extra large devices (large desktops, 1200px and up) */
+  @media (min-width: 1200px) {  
+    .para {font-size:2.6rem;} /*1rem = 16px*/    
+  }
+   
