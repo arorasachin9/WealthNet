@@ -1,4 +1,4 @@
-<h1>WealthNet</h>
+<h1>WealthNet</h1>
   <br>
   <p>A Porfolio management website with login Aunthentication System for Financial Support</p>
   <h2>Some Features</h2>
